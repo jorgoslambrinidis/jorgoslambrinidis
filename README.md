@@ -1,8 +1,8 @@
-👋 Hi, I’m @jorgoslambrinidis
-👀 I’m interested in software development.
-💞️ I’m looking to collaborate on any .NET & Angular based projects.
-🌱 I’m currently learning Sitecore & Azure Cloud.
-📫 How to reach me - https://jorgoslambrinidis.github.io/
+- 👋 Hi, I’m @jorgoslambrinidis
+- 👀 I’m interested in software development.
+- 💞️ I’m looking to collaborate on any .NET & Angular based projects.
+- 🌱 I’m currently learning Sitecore & Azure Cloud.
+- 📫 How to reach me - https://jorgoslambrinidis.github.io/
 
 <!--
 ### Hi there 👋
